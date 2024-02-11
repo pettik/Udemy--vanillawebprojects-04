@@ -29,7 +29,7 @@ Select countries to get the exchange rate for a specific amount
 ## My solution features
 
 - Custom **UI/UX design**
-- My **FREE API KEY** is no longer working (must be replaced - after your registration on [https://app.exchangerate-api.com/](https:/********/app.exchangerate-api.com/) ) -> replace "const myCurrentAPIkey = ' \*\* \*\* \*\* \*\* \*\* ** ' in **script.js\*\* .
+- My **FREE API KEY** is no longer working (must be replaced - after your registration on [https://app.exchangerate-api.com/](https:/********/app.exchangerate-api.com/) ) -> replace "const myCurrentAPIkey = ' \*\* \*\* \*\* \*\* \*\* ** ' in **script.js** .
 - **FontAwesome** icons
 
 # Author
